@@ -1,0 +1,14 @@
+@Article{Higaki2017,
+  author    = {H Higaki and C Kaga and K Fukushima and H Okamoto and Y Nagata and Y Kanai and Y Yamazaki},
+  journal   = {New Journal of Physics},
+  title     = {Simultaneous confinement of low-energy electrons and positrons in a compact magnetic mirror trap},
+  year      = {2017},
+  month     = {feb},
+  number    = {2},
+  pages     = {023016},
+  volume    = {19},
+  doi       = {10.1088/1367-2630/aa5a45},
+  publisher = {{IOP} Publishing},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
